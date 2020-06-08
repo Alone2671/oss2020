@@ -1,5 +1,5 @@
 ---
-title        : OWASP Juice Shop Introduction
+title        : OWASP Juice Shop Introduction by Bjoern Kimminich
 type         : training-session
 track        : OWASP Juice Shop
 topics       : OWASP
